@@ -1,0 +1,58 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\CSS"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\dark-mode"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\DOM"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\front-end"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\front-end-1"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\Html"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\Javascript"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\portfolio-website"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\React"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\React-Github-User-Card"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\React-Todo"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\side projects"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\Sprint-Challenge-Single-Page-Apps"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\team-builder-1"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\User-Onboarding"
+		},
+		{
+			"path": "C:\\Users\\victo\\Documents\\Git\\Website Builder - Tech Company"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
